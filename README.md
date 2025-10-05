@@ -1,16 +1,23 @@
-# flutter_commapp
+#SpacePlace NASA challenge app
 
-A new Flutter project.
+Project Details
+Our app allow user a seamless experience to build scale the future model of habitats in space or planetary surface
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Key Benefits:
 
-A few resources to get you started if this is your first Flutter project:
+This solution is cost-effectiveness and long term value. 
+This project has most potential to improve life on universe
+Impact and Scalability:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Resource utilization - Like Martian Soil
+Clean energy production-Water Ice
+Potentially easing Earth's strained resources 
+Providing an expanded ecological niche for humanity
+Technology/Tools used -
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter UI, Flutter 3D Controller, Rest API, Azure Databricks with Spark Mllib
+
+The creative aspect of theis project lies not just in its functionality but in its innovative approach to democratizing space habitat design. It reimagines a traditionally rigid, expert-driven process into one that is fluid, intuitive, and accessible.
+
+Team considered a wide range of factors, primarily focusing on user experience, mission requirements, and technological feasibility. The goal was to create a tool that is not only robust enough for professionals but with functional requirements like diverse mission parameters, critical function,modularity, scalability, powerful 3D engine, AI integration. 
