@@ -1,4 +1,5 @@
 #SpacePlace NASA challenge app
+Short description of app can be found in quick video : https://youtu.be/js3YZTCA-Po
 
 Project Details
 Our app allow user a seamless experience to build scale the future model of habitats in space or planetary surface
